@@ -1,2 +1,3 @@
 # Longest Palindrome subsequence
-Implementation in c++
+
+Given a sequence, find the length of the longest palindromic subsequence in it.
